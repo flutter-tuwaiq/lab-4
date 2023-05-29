@@ -1,9 +1,16 @@
-# Lab #4
+# lab13
 
-## Details
-Create a Flutter project that uitilize `Row` and `Column` functionality as follows:
+A new Flutter project.
 
-<img height="800px" width="500px" src="https://cdn.discordapp.com/attachments/1103257184386699314/1112655442158563479/Screenshot_2023-05-29_at_11.14.33_AM.png"></img>
+## Getting Started
 
-## Deadline 
-29/5/2023 12:00 PM
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
