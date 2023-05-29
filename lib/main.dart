@@ -47,8 +47,8 @@ class MainApp extends StatelessWidget {
                         Row(
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,
                           children: [
-                          Text('your name '),
-                           Text('your course'),
+                          Text('your email '),
+                           Text('your id'),
                            
                           ],
                         ),
